@@ -1,0 +1,6 @@
+{
+  "name": "TaskVault BD",
+  "description": "TaskVault BD: বাংলাদেশের নিরাপদ ও আধুনিক অনলাইন রিসেলিং, মাইক্রো-টাস্ক ও এস্ক্রো আর্নিং প্ল্যাটফর্ম। দ্রুত bKash ও Nagad ক্যাশআউট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
